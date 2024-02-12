@@ -1,0 +1,59 @@
+[0212/113315.084:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0212/113316.904:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/113320.900:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/identifier?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113344.146:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113354.150:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113407.683:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113412.362:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/signup/identifier?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113414.959:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/signup/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113426.703:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/signup/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113449.246:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/identifier?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113451.537:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113500.401:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113502.311:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/reset-password/request/universalMigrationConnection?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113504.667:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/reset-password/request/universalMigrationConnection?state=hKFo2SAzc3c3NzNHc2owbVF3MHFZZ3dNbWM5LW5UdmNXaDJnbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdONy01bmx3b3RzSmdRNVhGMndtdTFFSW5ydC1HcDVRo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113617.149:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/113643.397:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/113647.141:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/identifier?state=hKFo2SByUVlEbFV1M0lUNFdIeXp0eXhrTE1VY0VxRlRtaHhnUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIE5zek9CanpKUk1CX3NmNHNvQlUyaUliSXRjbGxkTWoxo2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113706.329:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/113727.344:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/113730.142:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/identifier?state=hKFo2SBKZmxsZzhpTnZmdVhzU002UUlndm5kZkp3azRaMzZKMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtlVlJha3dRYTl4dHI3dFhKbDNJSXY4RFVJX1JNM0Nro2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113745.619:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://auth.id.smartbear.com/u/login/password?state=hKFo2SBKZmxsZzhpTnZmdVhzU002UUlndm5kZkp3azRaMzZKMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtlVlJha3dRYTl4dHI3dFhKbDNJSXY4RFVJX1JNM0Nro2NpZNkgaDk2VVRreDk1YzZjN1I4d2F1dG9hQ1RjRnpvRWl5Vzg (1)
+[0212/113802.704:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574854 [13,6]
+[0212/113802.710:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574854 [13,6]
+[0212/113802.710:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574854 [13,6]
+[0212/113802.710:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574854 [13,6]
+[0212/113802.711:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574854 [13,6]
+[0212/113803.686:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: about:blank (1)
+[0212/113803.804:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://js.chargebee.com/assets/cbjs-2024.02.08-07.18/v2/master.html (1)
+[0212/113804.237:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://app.visualtest.io/onboarding (1)
+[0212/113804.570:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542151 [14,7]
+[0212/113804.716:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542154 [14,10]
+[0212/113804.716:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542154 [14,10]
+[0212/113804.716:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542154 [14,10]
+[0212/113804.716:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542154 [14,10]
+[0212/113804.727:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542151 [14,7]
+[0212/113804.727:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542151 [14,7]
+[0212/113804.727:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542151 [14,7]
+[0212/113804.727:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542151 [14,7]
+[0212/113805.852:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://newassets.hcaptcha.com/captcha/v1/540c361/static/hcaptcha.html?_v=qwnkkk394rb (1)
+[0212/113805.852:INFO:CONSOLE(3)] "Uncaught TypeError: Cannot read properties of null (reading 'name')", source: https://newassets.hcaptcha.com/captcha/v1/540c361/hcaptcha.js (3)
+[0212/113805.853:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://newassets.hcaptcha.com/captcha/v1/540c361/static/hcaptcha.html (1)
+[0212/113805.853:INFO:CONSOLE(3)] "Uncaught TypeError: Cannot read properties of null (reading 'name')", source: https://newassets.hcaptcha.com/captcha/v1/540c361/hcaptcha.js (3)
+[0212/113805.934:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509449 [15,9]
+[0212/113806.004:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444041 [17,9]
+[0212/113806.246:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444041 [17,9]
+[0212/113806.246:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444041 [17,9]
+[0212/113806.246:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444041 [17,9]
+[0212/113806.246:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444041 [17,9]
+[0212/113806.249:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0212/113806.465:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0212/113806.497:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0212/113806.532:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0212/113806.563:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0212/113808.076:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://www.youtube.com/embed/sXsifqUUv1w (1)
+[0212/113836.759:INFO:CONSOLE(0)] "Form submission canceled because the form is not connected", source: https://app.visualtest.io/onboarding (0)
+[0212/113855.564:INFO:CONSOLE(0)] "Form submission canceled because the form is not connected", source: https://app.visualtest.io/onboarding (0)
+[0212/114002.687:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/114014.452:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0212/114016.152:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
