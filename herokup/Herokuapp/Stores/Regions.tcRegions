@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="textnodeContactUs" key="{71BE65F4-CB38-47E3-87CB-4B32791817AF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="textnodeContactUs" ID="{71BE65F4-CB38-47E3-87CB-4B32791817AF}" FileName="Regions\textnodeContactUs.png" Update="False" />
+		</child>
+	</children>
+</Root>

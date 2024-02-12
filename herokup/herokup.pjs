@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{7911629C-3B09-451F-97E4-3FBAFAC4F107}">
+	<children>
+		<child name="Herokuapp" key="{4012353A-67FA-4ED1-8AEB-DDFC612E11AC}" path="Herokuapp\Herokuapp.mds" />
+	</children>
+	<testItems key="{7345225A-FDD5-47B1-BC68-EF269BEBE267}">
+		<children>
+			<testItem key="{4012353A-67FA-4ED1-8AEB-DDFC612E11AC}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{FB77D6DA-7742-4561-A8B5-BF973F7CA3A9}" />
+	<analysis key="{2DCB3ED0-443D-4CD3-810D-C5708D576871}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

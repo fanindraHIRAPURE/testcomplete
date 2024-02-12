@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{4624860C-1F44-4E37-9003-7DDF6981E861}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{3C41CAC9-7845-4A0F-A054-604841677BB6}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{513A8162-FDC5-4834-AEF3-FAF6FAB7CF7E}">
+								<Image FileName="-237551496" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{BA20FC19-38A5-4B53-B4E2-04EAE769C1BC}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageWelcomeMercuryTours" Key="{ACCFD27C-035A-45C9-A58A-C96F0833CC68}">
+								<Image FileName="-1903780708" Left="0" Top="128" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://demo.guru99.com/selenium/newtours/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeHome" Key="{40A85F74-F4BF-4D01-B591-F15524343865}">
+										<Image FileName="-941669707" Left="10" Top="138" Right="1891" Bottom="1089" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Home&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsername" Key="{C34F459D-FB42-43D4-B780-A07BCCDDE082}">
+										<Image FileName="-947979371" Left="644" Top="418" Right="772" Bottom="445" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@name=&apos;userName&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelHome" Key="{EA202153-B742-47C3-8D3F-4177414F1F4D}">
+										<Image FileName="1994630493" Left="10" Top="138" Right="1891" Bottom="1089" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="div[contains(., &apos;Home&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{2AC6907B-2FF1-42A7-AC02-D3598CF02857}">
+										<Image FileName="1262238954" Left="644" Top="458" Right="772" Bottom="485" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imagebuttonSubmit" Key="{E01FCBED-1B50-4706-8880-2080941FBF4C}">
+										<Image FileName="-465989713" Left="678" Top="493" Right="751" Bottom="514" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@name=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@value=&apos;Login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWelcomeMercuryTours2" Key="{16FCB821-6F29-4F2C-93D5-E2A4B10DD2D6}">
+								<Image FileName="-1903780708" Left="0" Top="128" Right="1920" Bottom="1020" />
+								<TypeInfo Item0="{4C622032-96E7-42CD-B680-C1BB5902B718}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://demo.guru99.com/selenium/newtours/index.php" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="imagebuttonSubmit" Key="{82C6646E-8628-4B22-9D14-18065B721EB2}">
+										<Image FileName="1290087664" Left="678" Top="493" Right="751" Bottom="514" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@name=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@value=&apos;Login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell" Key="{00C6AC47-A817-402C-BFBD-81EBA7E5047E}">
+										<Image FileName="1290087664" Left="548" Top="518" Right="788" Bottom="528" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form//tr[4]/td//tr[5]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="cell2" Key="{6B6A7F9A-8406-492E-96E9-95BE5567A5BB}">
+										<Image FileName="1290087664" Left="640" Top="488" Right="788" Bottom="518" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form//tr[4]/td//tr[4]/td[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageFacebookLogInOrSignUp" Key="{1C48719E-44DC-4E93-AD94-351983F7224A}">
+								<Image FileName="-1010565844" Left="0" Top="128" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.facebook.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formU09Sk" Key="{5DFAA638-BBD5-4A1E-BC52-D0D477B42E58}">
+										<Image FileName="-1010565844" Left="1068" Top="306" Right="1563" Bottom="700" />
+										<Selectors>
+											<Selector>
+												<Value Value="#u_0_9_sk" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;_9vtf&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxEmailAddressOrPhoneNumber" Key="{C64B7214-F693-4F38-ACF3-893D7F9D04A7}">
+										<Image FileName="-1010565844" Left="1088" Top="313" Right="1543" Bottom="378" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div/input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;u_0_9_sk&apos;]//div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formU06Rf" Key="{CA5443B6-2940-4A13-954E-AAA7F2EAE894}">
+										<Image FileName="1467193424" Left="1068" Top="306" Right="1563" Bottom="700" />
+										<Selectors>
+											<Selector>
+												<Value Value="#u_0_6_Rf" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;_9vtf&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxEmailAddressOrPhoneNumber2" Key="{4476ECD8-F919-4A3F-9C1C-618991FA1386}">
+										<Image FileName="1467193424" Left="1088" Top="313" Right="1543" Bottom="378" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div/input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;u_0_6_Rf&apos;]//div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelClickYourPictureOrAddAn" Key="{DACA4712-7E09-46EB-96A2-B213C53CA296}">
+										<Image FileName="898226183" Left="338" Top="376" Right="1008" Bottom="421" />
+										<TypeInfo Item0="{1B2D203E-920E-40A2-8A05-D61587FD8485}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[.=&apos;Click your picture or add an account.&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;_8e4l&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{3EFD4866-13A3-471E-9B31-095BEF3B6CBD}">
+										<Image FileName="1140115336" Left="1109" Top="411" Right="1484" Bottom="439" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#pass" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;pass&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@aria-label=&apos;Password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div[2]//input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;passContainer&apos;]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonU09Sf" Key="{15C2E1C1-86C9-4088-853F-EFCB263717DD}">
+										<Image FileName="-1428016978" Left="1088" Top="477" Right="1543" Bottom="537" />
+										<TypeInfo Item0="{B0D67007-73E5-42D7-A603-B4D7CE59249F}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#u_0_9_sF" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@value=&apos;1&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;_42ft&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;u_0_6_Rf&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formU06Cu" Key="{C44E91EB-8B2E-4270-8F30-E31962602458}">
+										<Image FileName="-1624850508" Left="1068" Top="306" Right="1563" Bottom="700" />
+										<Selectors>
+											<Selector>
+												<Value Value="#u_0_6_CU" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;_9vtf&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonU09P8" Key="{F9057BFF-B34C-4EB3-9859-14F7F61266CF}">
+										<Image FileName="-1624850508" Left="1088" Top="477" Right="1543" Bottom="537" />
+										<TypeInfo Item0="{B0D67007-73E5-42D7-A603-B4D7CE59249F}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#u_0_9_P8" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@value=&apos;1&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;_42ft&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;u_0_6_CU&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formLogIn" Key="{DEA1AB51-AFFB-4B80-8F9C-7C72D68960CB}">
+										<Image FileName="144464987" Left="1068" Top="306" Right="1563" Bottom="700" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;_9vtf&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxEmailAddressOrPhoneNumber3" Key="{501790DD-85EA-4DF6-895E-5D36F96EBE79}">
+										<Image FileName="144464987" Left="1088" Top="313" Right="1543" Bottom="378" />
+										<TypeInfo Item0="{8856727E-3B66-444E-9576-3377FEDD4B84}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div/input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{3C41CAC9-7845-4A0F-A054-604841677BB6}">
+			<Child Name="BrowserWindow" Owner="{513A8162-FDC5-4834-AEF3-FAF6FAB7CF7E}" />
+			<Child Name="pageWelcomeMercuryTours" Owner="{ACCFD27C-035A-45C9-A58A-C96F0833CC68}">
+				<Child Name="textnodeHome" Owner="{40A85F74-F4BF-4D01-B591-F15524343865}" />
+				<Child Name="textboxUsername" Owner="{C34F459D-FB42-43D4-B780-A07BCCDDE082}" />
+				<Child Name="panelHome" Owner="{EA202153-B742-47C3-8D3F-4177414F1F4D}" />
+				<Child Name="passwordboxPassword" Owner="{2AC6907B-2FF1-42A7-AC02-D3598CF02857}" />
+				<Child Name="imagebuttonSubmit" Owner="{E01FCBED-1B50-4706-8880-2080941FBF4C}" />
+			</Child>
+			<Child Name="pageWelcomeMercuryTours2" Owner="{16FCB821-6F29-4F2C-93D5-E2A4B10DD2D6}">
+				<Child Name="imagebuttonSubmit" Owner="{82C6646E-8628-4B22-9D14-18065B721EB2}" />
+				<Child Name="cell" Owner="{00C6AC47-A817-402C-BFBD-81EBA7E5047E}" />
+				<Child Name="cell2" Owner="{6B6A7F9A-8406-492E-96E9-95BE5567A5BB}" />
+			</Child>
+			<Child Name="pageFacebookLogInOrSignUp" Owner="{1C48719E-44DC-4E93-AD94-351983F7224A}">
+				<Child Name="formU09Sk" Owner="{5DFAA638-BBD5-4A1E-BC52-D0D477B42E58}">
+					<Child Name="textboxEmailAddressOrPhoneNumber" Owner="{C64B7214-F693-4F38-ACF3-893D7F9D04A7}" />
+				</Child>
+				<Child Name="formU06Rf" Owner="{CA5443B6-2940-4A13-954E-AAA7F2EAE894}">
+					<Child Name="textboxEmailAddressOrPhoneNumber2" Owner="{4476ECD8-F919-4A3F-9C1C-618991FA1386}" />
+					<Child Name="passwordboxPassword" Owner="{3EFD4866-13A3-471E-9B31-095BEF3B6CBD}" />
+					<Child Name="buttonU09Sf" Owner="{15C2E1C1-86C9-4088-853F-EFCB263717DD}" />
+				</Child>
+				<Child Name="panelClickYourPictureOrAddAn" Owner="{DACA4712-7E09-46EB-96A2-B213C53CA296}" />
+				<Child Name="formU06Cu" Owner="{C44E91EB-8B2E-4270-8F30-E31962602458}">
+					<Child Name="buttonU09P8" Owner="{F9057BFF-B34C-4EB3-9859-14F7F61266CF}" />
+				</Child>
+				<Child Name="formLogIn" Owner="{DEA1AB51-AFFB-4B80-8F9C-7C72D68960CB}">
+					<Child Name="textboxEmailAddressOrPhoneNumber3" Owner="{501790DD-85EA-4DF6-895E-5D36F96EBE79}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

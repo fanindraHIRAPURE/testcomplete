@@ -11,5 +11,6 @@
 		<child name="global_var_2" key="{875C5C27-57FF-4076-B86B-32E942088CAD}" path="global_var_2.tcKDTest" />
 		<child name="persi_global_check" key="{3C4217BD-8188-42CE-BABE-9CCD54345C32}" path="persi_global_check.tcKDTest" />
 		<child name="persi_global_check_2" key="{1010F5E6-338E-4361-8793-0E0FC265B140}" path="persi_global_check_2.tcKDTest" />
+		<child name="login" key="{F24A3A9F-761E-475E-975D-A4BFD1C77E0F}" path="login.tcKDTest" />
 	</children>
 </Root>

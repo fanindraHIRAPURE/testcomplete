@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="hiroku" key="{B905A2AC-9C44-46F2-B89B-F4A1F4B7DEE0}" path="hiroku.tcKDTest" />
+		<child name="automationpractice" key="{C07AB761-BAD2-4E9D-A4C0-EE0E0A8CF544}" path="automationpractice.tcKDTest" />
+		<child name="auto" key="{CA27ACCB-544C-4975-99E0-90FFBE7A6037}" path="auto.tcKDTest" />
+		<child name="smartbear" key="{E4EF739C-9C28-4E0A-A5EC-11C313FA1FFD}" path="smartbear.tcKDTest" />
+		<child name="contactus_parameter" key="{4DE1F7D3-CD50-4AB1-BCB3-A6EDE4C2A89A}" path="contactus_parameter.tcKDTest" />
+		<child name="contactus_data_driven" key="{1FA51063-A763-449B-A5BD-41E9B4ABC2DF}" path="contactus_data_driven.tcKDTest" />
+		<child name="contactus_variable" key="{89C55500-3C0F-40B0-95BB-24D6F4D8C011}" path="contactus_variable.tcKDTest" />
+	</children>
+</Root>

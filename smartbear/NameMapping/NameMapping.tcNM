@@ -63,7 +63,6 @@
 									</Child>
 									<Child Name="textboxUsernameoremail" Key="{FD02AFA8-D3EF-4CE3-95F1-24E0D5B1CE6E}">
 										<Image FileName="-1720539965" Left="1125" Top="548" Right="1604" Bottom="612" />
-										<TypeInfo Item0="{BABEF939-9FB4-4A2A-BC8B-197AED495405}" />
 										<Selectors>
 											<Selector>
 												<Value Value="#UsernameOrEmail" />
@@ -87,7 +86,6 @@
 									</Child>
 									<Child Name="passwordboxPassword" Key="{6428515B-42DF-4323-AE9A-2DDD84863C33}">
 										<Image FileName="-1466295548" Left="1125" Top="632" Right="1604" Bottom="696" />
-										<TypeInfo Item0="{BABEF939-9FB4-4A2A-BC8B-197AED495405}" />
 										<Selectors>
 											<Selector>
 												<Value Value="#Password" />
@@ -113,7 +111,6 @@
 							</Child>
 							<Child Name="pageBearstoreTestsiteSmartbearCo" Key="{0E57C73F-6B3A-43E3-9AE1-7E52EC989B81}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -170,7 +167,6 @@
 									</Child>
 									<Child Name="imageShowProductsInCategory" Key="{0B447F5E-8444-4741-99FC-2B990975F42B}">
 										<Image FileName="-1846562515" Left="1470" Top="369" Right="1601" Bottom="544" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//img[@title=&apos;Show products in category Jackets&apos;]" />
@@ -187,7 +183,6 @@
 							</Child>
 							<Child Name="pageJackets" Key="{0B5363FA-8436-4A8C-A153-50BF6D70A05D}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -233,7 +228,6 @@
 									</Child>
 									<Child Name="imagePictureOfKanukaPointJacketM" Key="{0963EC1E-61D4-4266-AD0F-3C001C54311B}">
 										<Image FileName="-758535113" Left="887" Top="305" Right="1105" Bottom="523" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//img[@title=&apos;Show details for KANUKA POINT JACKET M&apos;]" />
@@ -250,7 +244,6 @@
 							</Child>
 							<Child Name="pageKanukaPointJacketM" Key="{6AED22BE-C739-49BB-BF78-21B031CF0FB0}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -307,7 +300,6 @@
 									</Child>
 									<Child Name="textnode" Key="{588BD396-58A2-4887-8A88-D9AC1B693A05}">
 										<Image FileName="1121297168" Left="1375" Top="818" Right="1398" Bottom="838" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//div[2]/a/i[contains(@class, &apos;fa&apos;)]" />
@@ -347,7 +339,6 @@
 									</Child>
 									<Child Name="textnodeCheckout" Key="{01514393-1380-4B57-940D-7A664BADCD1B}">
 										<Image FileName="-948510992" Left="1790" Top="959" Right="1879" Bottom="984" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//span[.=&apos;Checkout&apos;]" />
@@ -362,7 +353,6 @@
 									</Child>
 									<Child Name="linkJackWolfskinKanukaPoint1Png" Key="{0EF2D0E8-4123-41EA-A3FB-7F5444737C96}">
 										<Image FileName="478133628" Left="265" Top="218" Right="1058" Bottom="1011" />
-										<TypeInfo Item0="{BD2F833B-F116-483B-9076-7365154F6F28}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//form/section//div[2]//a[contains(@class, &apos;gal-item-viewport&apos;)]" />
@@ -377,7 +367,6 @@
 									</Child>
 									<Child Name="imageKanukaPointJacketM" Key="{23C9F2C4-C979-47CA-A795-CF1DBBD68055}">
 										<Image FileName="478133628" Left="286" Top="239" Right="1036" Bottom="989" />
-										<TypeInfo Item0="{960EF21E-6FB0-4BB0-BE25-94FE7534368E}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//img[@title=&apos;KANUKA POINT JACKET M&apos;]" />
@@ -397,7 +386,6 @@
 							</Child>
 							<Child Name="pageBillingaddress" Key="{A4C79DAC-1B73-4A55-8B5E-C4C740DDD002}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -440,7 +428,6 @@
 									</Child>
 									<Child Name="buttonBillToThisAddress" Key="{A49A86C1-9747-4B3A-8EA5-CB6028F3B79A}">
 										<Image FileName="-297575040" Left="282" Top="630" Right="676" Bottom="685" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[contains(., &apos;Bill to this address&apos;)]" />
@@ -460,7 +447,6 @@
 							</Child>
 							<Child Name="pageShippingaddress" Key="{69724C3B-E6C4-40B5-9096-B8922EB93560}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -503,7 +489,6 @@
 									</Child>
 									<Child Name="buttonShipToThisAddress" Key="{D575131E-9A4D-478C-80C1-0813CA25FD31}">
 										<Image FileName="-241057625" Left="282" Top="630" Right="676" Bottom="685" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[contains(., &apos;Ship to this address&apos;)]" />
@@ -523,7 +508,6 @@
 							</Child>
 							<Child Name="pageShippingmethod" Key="{C0644CF7-E9EE-4236-BA71-ED2501E4323C}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -555,7 +539,6 @@
 									</Child>
 									<Child Name="buttonNext" Key="{71281192-B199-43F3-B117-B3DD0AE50102}">
 										<Image FileName="-614896201" Left="1513" Top="702" Right="1644" Bottom="766" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[contains(., &apos;Next&apos;)]" />
@@ -575,7 +558,6 @@
 							</Child>
 							<Child Name="pagePaymentmethod" Key="{F228F7ED-AA78-4C93-932E-93119ABAC9CF}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -607,7 +589,6 @@
 									</Child>
 									<Child Name="buttonNext" Key="{8DDBC1B5-E721-4B8F-9A7E-4B45096E7AD2}">
 										<Image FileName="-1682243939" Left="1513" Top="842" Right="1644" Bottom="906" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[contains(., &apos;Next&apos;)]" />
@@ -627,7 +608,6 @@
 							</Child>
 							<Child Name="pageConfirm" Key="{E3C6AC39-48EF-4BD1-ACA3-4728A6C92D0F}">
 								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
-								<TypeInfo Item0="{DAAB21B6-7EA9-4292-83FC-C6E5A9C020DF}" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -659,7 +639,6 @@
 									</Child>
 									<Child Name="buttonConfirm" Key="{9466E6C6-4A0E-4729-BA47-9269C4859CB8}">
 										<Image FileName="37325397" Left="1206" Top="477" Right="1643" Bottom="541" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[contains(., &apos;Confirm&apos;)]" />
@@ -730,7 +709,6 @@
 									</Child>
 									<Child Name="textboxYourName" Key="{28150870-41CA-4EEA-A903-90406DF7387E}">
 										<Image FileName="213079392" Left="612" Top="512" Right="1643" Bottom="568" />
-										<TypeInfo Item0="{BABEF939-9FB4-4A2A-BC8B-197AED495405}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//input[@id=(//label[.=&apos;Your name&apos;]/@for)]" />
@@ -748,7 +726,6 @@
 									</Child>
 									<Child Name="emailinputYourEmail" Key="{C88CC648-7050-4D81-A58B-44007D19F1ED}">
 										<Image FileName="213079392" Left="612" Top="587" Right="1643" Bottom="643" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//input[@id=(//label[.=&apos;Your email&apos;]/@for)]" />
@@ -766,7 +743,6 @@
 									</Child>
 									<Child Name="textareaEnquiry" Key="{8EC64D73-8C31-487C-942C-3588AE75A0EF}">
 										<Image FileName="-2108287795" Left="612" Top="663" Right="1643" Bottom="859" />
-										<TypeInfo Item0="{E53F5F7D-D9FE-44D2-9F9C-D69ED8FF8F40}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//textarea[@id=(//label[.=&apos;Enquiry&apos;]/@for)]" />
@@ -781,7 +757,6 @@
 									</Child>
 									<Child Name="buttonSendEmail" Key="{5347FD46-559C-41F1-BB49-06662319C251}">
 										<Image FileName="140611284" Left="612" Top="928" Right="739" Bottom="992" />
-										<TypeInfo Item0="{DB9EA698-78E2-42E4-8811-489A76D5404D}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//button[@name=&apos;send-email&apos;]" />
@@ -805,13 +780,123 @@
 									</Child>
 									<Child Name="panelYourEnquiryHasBeen" Key="{C2D25DD8-21D8-42C8-938D-960E1E4B385D}">
 										<Image FileName="1119068118" Left="265" Top="533" Right="1653" Bottom="591" />
-										<TypeInfo Item0="{960EF21E-6FB0-4BB0-BE25-94FE7534368E}" />
 										<Selectors>
 											<Selector>
 												<Value Value="//div[contains(text(), &apos;Your enquiry has been successfully sent to the store owner.&apos;)]" />
 											</Selector>
 											<Selector>
 												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//div[contains(@class, &apos;alert&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageLogInToFacebook" Key="{5029BB63-D097-4015-B96C-4CF508AD54F0}">
+								<Image FileName="-277887692" Left="0" Top="88" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.facebook.com/login/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formLoginForm" Key="{59CF6478-C93E-446B-92CE-920BEDD5C368}">
+										<Image FileName="-277887692" Left="702" Top="311" Right="1197" Bottom="607" />
+										<Selectors>
+											<Selector>
+												<Value Value="#login_form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxEmailAddressOrPhoneNumber" Key="{2E4D1A3B-4645-478A-96F8-F24B3D5447B3}">
+										<Image FileName="-277887692" Left="722" Top="318" Right="1177" Bottom="383" />
+										<TypeInfo Item0="{09C9854B-E499-4B1A-82D7-182EEDCF8DFC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div[@id=&apos;email_container&apos;]/input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;email_container&apos;]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div[@id=&apos;loginform&apos;]/div[@id=&apos;email_container&apos;]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{D205473C-247B-41C6-AF08-6DE84DF7C9FD}">
+										<Image FileName="-1945399356" Left="743" Top="417" Right="1118" Bottom="445" />
+										<TypeInfo Item0="{09C9854B-E499-4B1A-82D7-182EEDCF8DFC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#pass" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;pass&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@aria-label=&apos;Password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div[2]//input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;loginform&apos;]//div/div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div[@id=&apos;loginform&apos;]/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonLoginbutton" Key="{76B2A97C-1C93-46DE-BC37-89A2F4D851AF}">
+										<Image FileName="-1174381284" Left="722" Top="478" Right="1177" Bottom="538" />
+										<TypeInfo Item0="{5A5ABECE-A4FE-406C-9760-EF85EE453DEF}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#loginbutton" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@value=&apos;1&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;_42ft&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;loginform&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -903,6 +988,13 @@
 						<Child Name="buttonSendEmail" Owner="{5347FD46-559C-41F1-BB49-06662319C251}" />
 					</Child>
 					<Child Name="panelYourEnquiryHasBeen" Owner="{C2D25DD8-21D8-42C8-938D-960E1E4B385D}" />
+				</Child>
+			</Child>
+			<Child Name="pageLogInToFacebook" Owner="{5029BB63-D097-4015-B96C-4CF508AD54F0}">
+				<Child Name="formLoginForm" Owner="{59CF6478-C93E-446B-92CE-920BEDD5C368}">
+					<Child Name="textboxEmailAddressOrPhoneNumber" Owner="{2E4D1A3B-4645-478A-96F8-F24B3D5447B3}" />
+					<Child Name="passwordboxPassword" Owner="{D205473C-247B-41C6-AF08-6DE84DF7C9FD}" />
+					<Child Name="login" Owner="{76B2A97C-1C93-46DE-BC37-89A2F4D851AF}" />
 				</Child>
 			</Child>
 		</Child>
