@@ -11,18 +11,6 @@
 		<child name="global_var_2" key="{875C5C27-57FF-4076-B86B-32E942088CAD}" path="global_var_2.tcKDTest" />
 		<child name="persi_global_check" key="{3C4217BD-8188-42CE-BABE-9CCD54345C32}" path="persi_global_check.tcKDTest" />
 		<child name="persi_global_check_2" key="{1010F5E6-338E-4361-8793-0E0FC265B140}" path="persi_global_check_2.tcKDTest" />
-<<<<<<< HEAD
-		<child name="login" key="{F24A3A9F-761E-475E-975D-A4BFD1C77E0F}" path="login.tcKDTest" />
-=======
-		<child name="generate_data" key="{8E66BBD2-F145-4272-AF75-E4C34E95EC01}" path="generate_data.tcKDTest" />
-		<child name="Test2" key="{08C59787-385C-4F2F-BF75-03680C8DEEBC}" path="Test2.tcKDTest" />
-		<child name="Flipkart" key="{3875D111-4D56-4D52-BF74-DB16CEFB9E50}" path="Flipkart.tcKDTest" />
-		<child name="click_me" key="{69797D48-BE0C-422C-A184-1C7316A20C87}" path="click_me.tcKDTest" />
-		<child name="youtube" key="{8B92CF82-8D55-40C6-8D79-704FA85F1D0C}" path="youtube.tcKDTest" />
-		<child name="challenging_dom" key="{54469000-E4C4-421D-853A-141B5F986896}" path="challenging_dom.tcKDTest" />
-		<child name="if_else_conditional" key="{2167D72A-AA99-45D2-98F9-628E12615708}" path="if_else_conditional.tcKDTest" />
-		<child name="for_loop_conditional" key="{794D29D4-159D-4BAC-8D8B-21092CB15AB0}" path="for_loop_conditional.tcKDTest" />
-		<child name="while" key="{2D8B1B21-442F-4E25-ADA5-DBAA177C401A}" path="while.tcKDTest" />
->>>>>>> bc0278f38a0b705353ffa880636f3e004c813985
+		<child name="challengiing_dom" key="{75812CA3-E504-49C3-9998-028482E0D106}" path="challengiing_dom.tcKDTest" />
 	</children>
 </Root>
