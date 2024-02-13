@@ -12,11 +12,8 @@
 		<child name="persi_global_check" key="{3C4217BD-8188-42CE-BABE-9CCD54345C32}" path="persi_global_check.tcKDTest" />
 		<child name="persi_global_check_2" key="{1010F5E6-338E-4361-8793-0E0FC265B140}" path="persi_global_check_2.tcKDTest" />
 		<child name="challengiing_dom" key="{75812CA3-E504-49C3-9998-028482E0D106}" path="challengiing_dom.tcKDTest" />
-		<child name="if_else_loop" key="{33EDB5F1-5C93-4AAC-8508-AB7F0A0720DD}" path="if_else_loop.tcKDTest" />
-		<child name="for_loop" key="{4788F5E1-D71C-4999-BCC6-28F541570D6B}" path="for_loop.tcKDTest" />
-		<child name="while_loop" key="{ECD7C89B-A358-4D1D-A654-0C96C1913BE2}" path="while_loop.tcKDTest" />
-		<child name="Test3" key="{542D0DD6-EDE2-4E0A-9D83-4C4BF85D78F1}" path="Test3.tcKDTest" />
-		<child name="patameter" key="{19097041-BADC-453F-943A-C9DCB71A4FD9}" path="patameter.tcKDTest" />
-		<child name="flipkart" key="{3B3C81FC-2837-450A-B694-ABAD18C563F3}" path="Visualizer\Flipkart_tcKDTest\flipkart.tcKDTest" />
+		<child name="new_challenging_dom" key="{2FD69B50-CBFB-442F-8246-BAF6F21A6CC1}" path="new_challenging_dom.tcKDTest" />
+		<child name="Test4" key="{65930F04-9BD7-4C49-B049-2967D687BE64}" path="Visualizer\Flipkart_tcKDTest\Test4.tcKDTest" />
+		<child name="c" key="{75715449-DC83-45D6-B5F0-9DC5FE4AD53C}" path="Visualizer\Flipkart_tcKDTest\c.tcKDTest" />
 	</children>
 </Root>
