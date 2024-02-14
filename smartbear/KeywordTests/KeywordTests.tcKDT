@@ -15,5 +15,8 @@
 		<child name="new_challenging_dom" key="{2FD69B50-CBFB-442F-8246-BAF6F21A6CC1}" path="new_challenging_dom.tcKDTest" />
 		<child name="Test4" key="{65930F04-9BD7-4C49-B049-2967D687BE64}" path="Visualizer\Flipkart_tcKDTest\Test4.tcKDTest" />
 		<child name="c" key="{75715449-DC83-45D6-B5F0-9DC5FE4AD53C}" path="Visualizer\Flipkart_tcKDTest\c.tcKDTest" />
+		<child name="if_else" key="{F924AF69-D6E0-45FE-B4FB-B88040BDF9B3}" path="if_else.tcKDTest" />
+		<child name="for_loop" key="{0111E896-95C0-435D-9346-09A16F93EE3D}" path="Visualizer\for_loop_conditional_tcKDTest\for_loop.tcKDTest" />
+		<child name="while__loop" key="{9863C39D-9656-4361-BB35-98D44EEDB023}" path="while__loop.tcKDTest" />
 	</children>
 </Root>

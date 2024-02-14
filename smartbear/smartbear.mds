@@ -8,7 +8,13 @@
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{31F22056-083C-401C-832D-DC632168FBD1}" version="14">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{97B76819-84B5-4045-920A-DE801CA24BC5}" group="False" parallel="False" enabled="True" testMoniker="KDT\{75715449-DC83-45D6-B5F0-9DC5FE4AD53C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{B0BA3EB2-3FCC-4625-9C2D-01F4FF1496D2}">
 		<data Version="4">
@@ -653,8 +659,8 @@
 			</data>
 		</setting>
 		<setting name="Visualizer_DeleteAll" type="1" value="True" />
-		<setting name="Visualizer_ParallelPlaybackCapture" type="1" value="False" />
-		<setting name="Visualizer_PlaybackCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_ParallelPlaybackCapture" type="1" value="True" />
+		<setting name="Visualizer_PlaybackCaptureProperties" type="1" value="True" />
 		<setting name="Visualizer_PlaybackCollectMode" type="6" rowIndex="1" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
@@ -664,7 +670,7 @@
 				<row val0="Capture images" />
 			</data>
 		</setting>
-		<setting name="Visualizer_RecordingCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_RecordingCaptureProperties" type="1" value="True" />
 		<setting name="Visualizer_RecordingCollectMode" type="6" rowIndex="1" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />

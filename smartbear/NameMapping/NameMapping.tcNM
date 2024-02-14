@@ -1085,6 +1085,30 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="linkAddToCompare2" Key="{89AEDF67-59D3-4CF5-8D95-AC613BB709BD}">
+										<Image FileName="-988257765" Left="399" Top="768" Right="1898" Bottom="1057" />
+										<TypeInfo Item0="{47800ABF-3A08-40B8-83B8-23C671B23A41}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Intel Celeron Dual Core Processor (9th Gen)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/div/div/div/a[contains(@class, &apos;_1fQZEK&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div[2]/div[3]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel3" Key="{9D8D125D-A58A-49E6-9987-8D3AFFC44734}">
+										<Image FileName="-988257765" Left="680" Top="786" Right="1390" Bottom="831" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[3]/div/div/div/a//div[contains(@class, &apos;_4rR01T&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageItm1aa32978aff04" Key="{3E4D8F69-E089-4469-ACA6-5EECEB9E2A0B}">
@@ -1442,7 +1466,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="https://www.flipkart.com/hp-15s-intel-core-i3-12th-gen-1215u-8-gb-512-gb-ssd-windows-11-home-15s-fq5007tu-thin-light-laptop/p/itmd2ff5362367f2*" />
+										<Value Value="https://www.flipkart.com/*" />
 									</Property>
 								</Properties>
 								<Children>
@@ -1518,7 +1542,72 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="linkP" Key="{101B5D25-155A-44C8-85B7-44A23C658110}">
+										<Image FileName="852129058" Left="381" Top="337" Right="1360" Bottom="361" />
+										<TypeInfo Item0="{47800ABF-3A08-40B8-83B8-23C671B23A41}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]//a[contains(@class, &apos;_2Kn22P&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
+							</Child>
+							<Child Name="pageHp14sIntelCoreI311thGen1115g" Key="{646A5C8A-BD46-49E9-93C4-B01E9EB553EA}">
+								<Image FileName="-981916073" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{E63EB384-A9DB-49EF-A79B-139A4E3BBCC6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode" Key="{E97EE146-5FF7-48B5-B8E7-2CD21DBDA4E0}">
+										<Image FileName="-981916073" Left="9" Top="117" Right="9" Bottom="117" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[contains(., &apos;(14 inch, Natural Silver, 1.41 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;yhB1nd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{17F28151-7D86-4D4C-A73E-965AA403409E}">
+										<Image FileName="-981916073" Left="795" Top="290" Right="1792" Bottom="353" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//span[contains(., &apos;(14 inch, Natural Silver, 1.41 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//span[contains(@class, &apos;B_NuCI&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//h1/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageNewtab" Key="{15DF3980-3694-4279-B94F-79A0E989B2D2}">
+								<Image FileName="920508054" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{E63EB384-A9DB-49EF-A79B-139A4E3BBCC6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="chrome://newtab/" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -1641,6 +1730,9 @@
 					<Child Name="panel" Owner="{2FBD3DD0-64C7-42D4-BEFF-E7D4680F2ACB}" />
 					<Child Name="panel2" Owner="{77040FF6-4D09-4E02-B429-F0DD827E4C5C}" />
 				</Child>
+				<Child Name="linkAddToCompare2" Owner="{89AEDF67-59D3-4CF5-8D95-AC613BB709BD}">
+					<Child Name="panel3" Owner="{9D8D125D-A58A-49E6-9987-8D3AFFC44734}" />
+				</Child>
 			</Child>
 			<Child Name="pageItm1aa32978aff04" Owner="{3E4D8F69-E089-4469-ACA6-5EECEB9E2A0B}">
 				<Child Name="textnodeAddToCart" Owner="{3A4B543F-33F2-407B-84E9-8A7D0EB4C895}">
@@ -1687,7 +1779,14 @@
 				<Child Name="textnode" Owner="{443D2F78-3C1E-4F42-9431-59A3DFEFDEF7}">
 					<Child Name="textnode2" Owner="{B5735411-A51B-4AEC-B328-61854B754122}" />
 				</Child>
+				<Child Name="linkP" Owner="{101B5D25-155A-44C8-85B7-44A23C658110}" />
 			</Child>
+			<Child Name="pageHp14sIntelCoreI311thGen1115g" Owner="{646A5C8A-BD46-49E9-93C4-B01E9EB553EA}">
+				<Child Name="textnode" Owner="{E97EE146-5FF7-48B5-B8E7-2CD21DBDA4E0}">
+					<Child Name="textnode2" Owner="{17F28151-7D86-4D4C-A73E-965AA403409E}" />
+				</Child>
+			</Child>
+			<Child Name="pageNewtab" Owner="{15DF3980-3694-4279-B94F-79A0E989B2D2}" />
 		</Child>
 	</LogicalNodes>
 </Root>
