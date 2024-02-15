@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{BF08B066-25E9-4D56-A546-58C2EBD1019D}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="contactus_parameterization" FullName="KeywordTests - contactus_parameterization" Path="KeywordTests|contactus_parameterization">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="name" DefVarType="8" DefValueType="6" DefValueValue="fanindra" VarType="8" ValueType="6" ValueValue="hukara" />
+						<Parameter Name="mail" DefVarType="8" DefValueType="6" DefValueValue="fani1@gmail.com" VarType="8" ValueType="6" ValueValue="bummy@gmail.com" />
+						<Parameter Name="inquiry" DefVarType="8" DefValueType="6" DefValueValue="bhot borin environment hai" VarType="8" ValueType="6" ValueValue="hello bhot boring environment hai" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{B6DCA33A-7E5B-4A9E-BA0B-1C5F1133F1E4}" />
+</Root>

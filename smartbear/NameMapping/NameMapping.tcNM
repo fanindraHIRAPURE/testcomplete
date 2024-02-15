@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{B920214B-12C0-4F88-B00B-C48A38F6F532}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{6E2FA216-80AC-4920-8D67-2D80597A64E5}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{EA3F596B-A441-4988-A51D-E36BC54C23D4}">
+								<Image FileName="-1720539965" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageShopLogin" Key="{C5CDCED8-33B9-44EF-B73E-8364A145B53A}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{0C085098-8103-4496-9FAB-3DEB3B6C7A11}">
+										<Image FileName="-1720539965" Left="237" Top="321" Right="1662" Bottom="867" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Sign In&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsernameoremail" Key="{FD02AFA8-D3EF-4CE3-95F1-24E0D5B1CE6E}">
+										<Image FileName="-1720539965" Left="1125" Top="548" Right="1604" Bottom="612" />
+										<Selectors>
+											<Selector>
+												<Value Value="#UsernameOrEmail" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;UsernameOrEmail&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[contains(@class, &apos;username&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//form/div//input" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{6428515B-42DF-4323-AE9A-2DDD84863C33}">
+										<Image FileName="-1466295548" Left="1125" Top="632" Right="1604" Bottom="696" />
+										<Selectors>
+											<Selector>
+												<Value Value="#Password" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;Password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[contains(@class, &apos;password&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//form/div[2]//input" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonLogIn" Key="{5B8B4210-59D5-4C4B-AF6F-B24991AD119E}">
+										<Image FileName="-1115915130" Left="1125" Top="805" Right="1604" Bottom="869" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//button[contains(text(), &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageBearstoreTestsiteSmartbearCo" Key="{0E57C73F-6B3A-43E3-9AE1-7E52EC989B81}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{22C487C8-5314-4B21-A3AC-51F8746DFDEE}">
+										<Image FileName="1879769048" Left="237" Top="127" Right="1662" Bottom="2841" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Welcome to our store.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleJackets" Key="{123B4591-0332-4E05-BB71-0DBABB46115A}">
+										<Image FileName="-1846562515" Left="1429" Top="349" Right="1644" Bottom="602" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;Jackets&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkShowProductsInCategory" Key="{67398FAC-5C0A-452A-AB38-983CABFBC991}">
+										<Image FileName="-1846562515" Left="1448" Top="369" Right="1623" Bottom="544" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div/a[@title=&apos;Show products in category Jackets&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[6]//a[contains(@class, &apos;art-picture&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[6]/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[6]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageShowProductsInCategory" Key="{0B447F5E-8444-4741-99FC-2B990975F42B}">
+										<Image FileName="-1846562515" Left="1470" Top="369" Right="1601" Bottom="544" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[@title=&apos;Show products in category Jackets&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;jackets&apos;)]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[6]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="header" Key="{5FD6EFEB-44D7-4622-9B6D-5585BB46541B}">
+										<Image FileName="1334011093" Left="0" Top="108" Right="1899" Bottom="332" />
+										<Selectors>
+											<Selector>
+												<Value Value="#header" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;USD&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="navUsd" Key="{3FCC18C9-2AC1-4D83-B8C7-DE0488D7F7C3}">
+										<Image FileName="1334011093" Left="256" Top="108" Right="1644" Bottom="173" />
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;USD&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/nav[contains(@class, &apos;navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkLogIn" Key="{D340B7C5-13F7-4500-B406-EE3A23029ABD}">
+										<Image FileName="1334011093" Left="1535" Top="108" Right="1643" Bottom="173" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a[contains(@class, &apos;menubar-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[@id=&apos;menubar-my-account&apos;]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeLogIn" Key="{D22E28A7-BB83-45A1-B5B8-775A586D4816}">
+										<Image FileName="1334011093" Left="1571" Top="129" Right="1631" Bottom="151" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[@id=&apos;menubar-my-account&apos;]//span" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageJackets" Key="{0B5363FA-8436-4A8C-A153-50BF6D70A05D}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/jackets" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{DD6713E6-0DD1-46BF-BC02-9A0CC91160B9}">
+										<Image FileName="-1848133411" Left="237" Top="106" Right="1662" Bottom="1019" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Price&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkKanukaPointJacketM" Key="{530DF7B4-D2E5-4AAF-A464-CBD9EDA837C8}">
+										<Image FileName="-758535113" Left="887" Top="305" Right="1105" Bottom="523" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[@title=&apos;Show details for KANUKA POINT JACKET M&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[2]//a[contains(@class, &apos;art-picture&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//div[2]/article[2]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imagePictureOfKanukaPointJacketM" Key="{0963EC1E-61D4-4266-AD0F-3C001C54311B}">
+										<Image FileName="-758535113" Left="887" Top="305" Right="1105" Bottom="523" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[@title=&apos;Show details for KANUKA POINT JACKET M&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;kanuka-point-jacket-m&apos;)]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[2]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageKanukaPointJacketM" Key="{6AED22BE-C739-49BB-BF78-21B031CF0FB0}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/kanuka-point-jacket-m" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{012E8D07-BE7F-44C8-B81F-1E4446103331}">
+										<Image FileName="1121297168" Left="237" Top="350" Right="1662" Bottom="2475" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;KANUKA POINT JACKET M&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleKanukaPointJacketM" Key="{2336E0EA-07F7-442D-9C66-B9A912CAD37C}">
+										<Image FileName="1121297168" Left="256" Top="414" Right="1644" Bottom="1968" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;KANUKA POINT JACKET M&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[contains(@class, &apos;pd&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAddToCart" Key="{B4BC9F0C-A51F-4E58-BF34-AC640B0D6E7A}">
+										<Image FileName="1121297168" Left="1256" Top="796" Right="1625" Bottom="860" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;main-update-container&apos;]/form/section/aside//a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;pd-form&apos;]//section/aside/div[4]/div[3]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/section/aside/div[4]/div[3]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{588BD396-58A2-4887-8A88-D9AC1B693A05}">
+										<Image FileName="1121297168" Left="1375" Top="818" Right="1398" Bottom="838" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]/a/i[contains(@class, &apos;fa&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;pd-form&apos;]//aside//div[3]//div[2]/a/i" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/a/i" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="asideOffcanvasCart" Key="{CC8181D7-83E2-46B1-B4F6-35299BE55DF2}">
+										<Image FileName="172869939" Left="1320" Top="96" Right="1920" Bottom="1020" />
+										<Selectors>
+											<Selector>
+												<Value Value="#offcanvas-cart" />
+											</Selector>
+											<Selector>
+												<Value Value="aside[contains(., &apos;Shopping Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="aside[contains(@class, &apos;offcanvas-lg&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCheckout" Key="{D15E526A-6956-4CAD-A35B-8CF425B7552B}">
+										<Image FileName="-948510992" Left="1745" Top="945" Right="1900" Bottom="1000" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Checkout&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//aside//div[2]//div[2]/a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCheckout" Key="{01514393-1380-4B57-940D-7A664BADCD1B}">
+										<Image FileName="-948510992" Left="1790" Top="959" Right="1879" Bottom="984" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Checkout&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;checkout&apos;)]/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//aside//div[2]//div[2]//a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkJackWolfskinKanukaPoint1Png" Key="{0EF2D0E8-4123-41EA-A3FB-7F5444737C96}">
+										<Image FileName="478133628" Left="265" Top="218" Right="1058" Bottom="1011" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form/section//div[2]//a[contains(@class, &apos;gal-item-viewport&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pd-gallery&apos;]//div[2]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/section//div[2]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageKanukaPointJacketM" Key="{23C9F2C4-C979-47CA-A795-CF1DBBD68055}">
+										<Image FileName="478133628" Left="286" Top="239" Right="1036" Bottom="989" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[@title=&apos;KANUKA POINT JACKET M&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/section//div[2]//a/img[contains(@class, &apos;gal-item-content&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pd-gallery&apos;]//div[2]//a/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//section/div//div[2]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageBillingaddress" Key="{A4C79DAC-1B73-4A55-8B5E-C4C740DDD002}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/checkout/billingaddress" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{3852B948-9557-4CA7-8F37-78A860699111}">
+										<Image FileName="1789558847" Left="237" Top="360" Right="1662" Bottom="2019" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldsetSelectBillingAddressunde" Key="{4D4D8A09-BE98-4362-9400-9EFF4988A75D}">
+										<Image FileName="1789558847" Left="256" Top="550" Right="1644" Bottom="970" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Select billing address&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset[contains(@class, &apos;mb-3&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonBillToThisAddress" Key="{A49A86C1-9747-4B3A-8EA5-CB6028F3B79A}">
+										<Image FileName="-297575040" Left="282" Top="630" Right="676" Bottom="685" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Bill to this address&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset//div//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//fieldset//div//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset//div//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageShippingaddress" Key="{69724C3B-E6C4-40B5-9096-B8922EB93560}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/checkout/shippingaddress" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{3235DF00-17C9-4B40-BC31-6C7A5E469E24}">
+										<Image FileName="-241057625" Left="237" Top="360" Right="1662" Bottom="2019" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldsetSelectShippingAddressund" Key="{3C636C73-BF1F-429D-846B-C3CBE87E4633}">
+										<Image FileName="-241057625" Left="256" Top="550" Right="1644" Bottom="970" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Select shipping address&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset[contains(@class, &apos;mb-3&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonShipToThisAddress" Key="{D575131E-9A4D-478C-80C1-0813CA25FD31}">
+										<Image FileName="-241057625" Left="282" Top="630" Right="676" Bottom="685" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Ship to this address&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset//div//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//fieldset//div//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset//div//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageShippingmethod" Key="{C0644CF7-E9EE-4236-BA71-ED2501E4323C}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/checkout/shippingmethod" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{EFEDB5A1-8080-43B8-AA28-2B85843465E7}">
+										<Image FileName="-1461726213" Left="237" Top="360" Right="1662" Bottom="889" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNext" Key="{71281192-B199-43F3-B117-B3DD0AE50102}">
+										<Image FileName="-614896201" Left="1513" Top="702" Right="1644" Bottom="766" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Next&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pagePaymentmethod" Key="{F228F7ED-AA78-4C93-932E-93119ABAC9CF}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/checkout/paymentmethod" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{5E52FA2D-B9CB-48C3-A02F-2E045931AB23}">
+										<Image FileName="1071872744" Left="237" Top="360" Right="1662" Bottom="1090" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNext" Key="{8DDBC1B5-E721-4B8F-9A7E-4B45096E7AD2}">
+										<Image FileName="-1682243939" Left="1513" Top="842" Right="1644" Bottom="906" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Next&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageConfirm" Key="{E3C6AC39-48EF-4BD1-ACA3-4728A6C92D0F}">
+								<Image FileName="-1720539965" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/checkout/confirm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{DA3E07DE-CDEA-44D0-9801-1CA8C136FFCA}">
+										<Image FileName="1627523690" Left="237" Top="360" Right="1662" Bottom="2279" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonConfirm" Key="{9466E6C6-4A0E-4729-BA47-9269C4859CB8}">
+										<Image FileName="37325397" Left="1206" Top="477" Right="1643" Bottom="541" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(., &apos;Confirm&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageShopContactUs" Key="{38E0B93A-1611-41AE-9A54-BE8B0C6AC99F}">
+								<Image FileName="213079392" Left="0" Top="96" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/contactus" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{FC6F5FE8-8682-40CC-B9A0-E598D02C7AD4}">
+										<Image FileName="213079392" Left="237" Top="350" Right="1662" Bottom="1012" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Contact Us&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formYourName" Key="{AB1ADB6E-F3BF-46ED-9FB6-FA3D47442DA9}">
+										<Image FileName="213079392" Left="256" Top="512" Right="1644" Bottom="992" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Your name&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;contactus&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;contact-form&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="name" Key="{28150870-41CA-4EEA-A903-90406DF7387E}">
+										<Image FileName="213079392" Left="612" Top="512" Right="1643" Bottom="568" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//input[@id=(//label[.=&apos;Your name&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="css=#FullName" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//input[@name=&apos;FullName&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//form/div//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="email" Key="{C88CC648-7050-4D81-A58B-44007D19F1ED}">
+										<Image FileName="213079392" Left="612" Top="587" Right="1643" Bottom="643" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//input[@id=(//label[.=&apos;Your email&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="css=#Email" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//input[@name=&apos;Email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//form/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textareaEnquiry" Key="{8EC64D73-8C31-487C-942C-3588AE75A0EF}">
+										<Image FileName="-2108287795" Left="612" Top="663" Right="1643" Bottom="859" />
+										<Selectors>
+											<Selector>
+												<Value Value="//textarea[@id=(//label[.=&apos;Enquiry&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#Enquiry" />
+											</Selector>
+											<Selector>
+												<Value Value="//textarea" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSendEmail" Key="{5347FD46-559C-41F1-BB49-06662319C251}">
+										<Image FileName="140611284" Left="612" Top="928" Right="739" Bottom="992" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//button[@name=&apos;send-email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//button[contains(text(), &apos;Submit&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-center&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;content-wrapper&apos;]/section//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelYourEnquiryHasBeen" Key="{C2D25DD8-21D8-42C8-938D-960E1E4B385D}">
+										<Image FileName="1119068118" Left="265" Top="533" Right="1653" Bottom="591" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(text(), &apos;Your enquiry has been successfully sent to the store owner.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//div[contains(@class, &apos;alert&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="header" Key="{2C99C58E-F321-4E4A-A47C-1AEB5493CB43}">
+										<Selectors>
+											<Selector>
+												<Value Value="#header" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;USD&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="navBooks" Key="{E05A99BC-C29F-4BB9-B322-9F16B961A62D}">
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;Books&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/nav[contains(@class, &apos;navbar&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]/div[3]/nav" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkWatches" Key="{E7329B9D-17FA-4DCE-9BAE-453264D04544}">
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Watches&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/a[contains(@class, &apos;nav-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//li[5]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeWatches" Key="{CF31EE14-EF58-4926-A6D4-77D451DC74CE}">
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Watches&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;watches&apos;)]/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formSearch" Key="{232C1B64-3CE0-4E1B-978F-B26938148A77}">
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;search&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;instasearch-form&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSearch" Key="{E24F4F25-68B2-4AAD-909E-39D61796B565}">
+										<Selectors>
+											<Selector>
+												<Value Value="//button[@title=&apos;Search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//form/button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//form/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="link19" Key="{C16662A7-686B-40FA-8DA9-30B0BC8E8EA9}">
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;19&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;shopbar-cart&apos;]/a[contains(@class, &apos;shopbar-button&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;shopbar-cart&apos;]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDanfossGlobeHome" Key="{6E6E42CA-9CBD-45BA-A85D-C664E2035C3E}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://danfoss.sharepoint.com/" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageOnlineShoppingSiteForMobiles" Key="{8BA51E01-0643-41F9-8FC1-C98C342D6783}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSearchIcon" Key="{F7B0F21E-3F94-4FB2-A455-4AE96B97028C}">
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Search Icon&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;_3EOQ5Q&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formSearchIcon" Key="{3108F1E5-555C-4978-BB2A-509AF0DEB8FE}">
+										<Selectors>
+											<Selector>
+												<Value Value="//form[.=&apos;Search Icon&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;search&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;_2rslOn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxQ" Key="{7C59BA5C-F6CD-4591-B426-45343984A94D}">
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@name=&apos;q&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@title=&apos;Search for Products, Brands and More&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[contains(@class, &apos;Pke_EE&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSearchForProductsBrandsAnd" Key="{C580E47F-A124-4886-962D-8999F78907C5}">
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Search Icon&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@title=&apos;Search for Products, Brands and More&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;_2iLD__&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div//header//form//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageOnlineShoppingSiteForMobiles2" Key="{08C0D595-B5ED-4AA1-8515-DC8D24DC377C}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/search*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkAddToCompare" Key="{56D966BB-465F-40BE-AF6F-BA6CD48C883E}">
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Add to Compare&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]//a[contains(@class, &apos;_1fQZEK&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div[2]/div[2]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel" Key="{2FBD3DD0-64C7-42D4-BEFF-E7D4680F2ACB}">
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]//a//div[contains(@class, &apos;_4rR01T&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel2" Key="{77040FF6-4D09-4E02-B429-F0DD827E4C5C}">
+										<Image FileName="377846478" Left="680" Top="415" Right="1390" Bottom="460" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]//a//div[contains(@class, &apos;_4rR01T&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAddToCompare2" Key="{89AEDF67-59D3-4CF5-8D95-AC613BB709BD}">
+										<Image FileName="-988257765" Left="399" Top="768" Right="1898" Bottom="1057" />
+										<TypeInfo Item0="{47800ABF-3A08-40B8-83B8-23C671B23A41}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Intel Celeron Dual Core Processor (9th Gen)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/div/div/div/a[contains(@class, &apos;_1fQZEK&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div[2]/div[3]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel3" Key="{9D8D125D-A58A-49E6-9987-8D3AFFC44734}">
+										<Image FileName="-988257765" Left="680" Top="786" Right="1390" Bottom="831" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[3]/div/div/div/a//div[contains(@class, &apos;_4rR01T&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageItm1aa32978aff04" Key="{3E4D8F69-E089-4469-ACA6-5EECEB9E2A0B}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/acer-extensa-2023-amd-ryzen-5-quad-core-7520u-8-gb-512-gb-ssd-windows-11-home-ex215-23-thin-light-laptop/p/itm1aa32978aff04*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeAddToCart" Key="{3A4B543F-33F2-407B-84E9-8A7D0EB4C895}">
+										<Image FileName="-261310254" Left="196" Top="823" Right="756" Bottom="893" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;row&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div/div[2]//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAddToCart2" Key="{A178DDB4-B32E-4A60-BE81-B8DDA8C34289}">
+										<Image FileName="-261310254" Left="196" Top="823" Right="476" Bottom="893" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]//ul/li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddToCart" Key="{B88EEA96-217C-44BD-9390-3554258207A5}">
+										<Image FileName="-261310254" Left="196" Top="823" Right="471" Bottom="893" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//button[text()=&apos;Add to cart&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//li/button[contains(@class, &apos;_2KpZ6l&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//li/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDifferenceBetweenQualityAssu" Key="{0E00DB4C-72AB-4FA4-B4A4-4D84A79E8F36}">
+								<Image FileName="1670323961" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.youtube.com/watch*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelContainer" Key="{81D08571-01B2-4A5A-B801-42F673CE3FBF}">
+										<Image FileName="1670323961" Left="9" Top="117" Right="1908" Bottom="187" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ytd-masthead/div[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageW3schoolsTryitEditor" Key="{A15EF1D8-9BC9-4DCF-844B-3BF589288D0C}">
+								<Image FileName="-1320285568" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.w3schools.com/jsref/tryit.asp*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="frameIframeresult" Key="{4D8FF982-F0AA-4447-A5D8-7A76A4A6392F}" ExtendedFind="True">
+										<Image FileName="-1320285568" Left="975" Top="298" Right="1916" Bottom="1016" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Frame" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="iframeResult" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonRunbtn" Key="{6AC9673C-17F8-43A4-BFC3-D8AAADFFD873}">
+										<Image FileName="-1489626675" Left="375" Top="237" Right="504" Bottom="286" />
+										<Selectors>
+											<Selector>
+												<Value Value="#runbtn" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Run ❯&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;w3-button&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonTest" Key="{A18D0DF4-3506-46CF-B846-D65EAF8797AA}" ExtendedFind="True">
+										<Image FileName="-1320285568" Left="985" Top="308" Right="1068" Bottom="335" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="test" />
+											</Property>
+											<FilterCriteria>
+												<Root Group="AND">
+													<Item Operation="stdopequal">
+														<Left Value="DispValue:ObjectType" />
+														<Right Value="ConstStr:Button" />
+													</Item>
+													<Item Group="OR">
+														<Item Operation="stdopequal">
+															<Left Value="DispValue:contentText" />
+															<Right Value="ConstStr:Click me" />
+														</Item>
+														<Item Operation="stdopequal">
+															<Left Value="DispValue:contentText" />
+															<Right Value="ConstStr:CLICK ME AGAIN" />
+														</Item>
+													</Item>
+												</Root>
+											</FilterCriteria>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageLogInToFacebook" Key="{5029BB63-D097-4015-B96C-4CF508AD54F0}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.facebook.com/login/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formLoginForm" Key="{59CF6478-C93E-446B-92CE-920BEDD5C368}">
+										<Selectors>
+											<Selector>
+												<Value Value="#login_form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxEmailAddressOrPhoneNumber" Key="{2E4D1A3B-4645-478A-96F8-F24B3D5447B3}">
+										<Selectors>
+											<Selector>
+												<Value Value="#email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div[@id=&apos;email_container&apos;]/input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;email_container&apos;]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div[@id=&apos;loginform&apos;]/div[@id=&apos;email_container&apos;]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{D205473C-247B-41C6-AF08-6DE84DF7C9FD}">
+										<Selectors>
+											<Selector>
+												<Value Value="#pass" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;pass&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@aria-label=&apos;Password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form//div[2]//input[contains(@class, &apos;inputtext&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;loginform&apos;]//div/div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;main&apos;]//form/div[@id=&apos;loginform&apos;]/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonLoginbutton" Key="{76B2A97C-1C93-46DE-BC37-89A2F4D851AF}">
+										<Selectors>
+											<Selector>
+												<Value Value="#loginbutton" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@value=&apos;1&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;_42ft&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;loginform&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageTestAutomationPracticeWorkin" Key="{26C74999-714A-4FB4-92D6-C58683FB0890}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://practice.expandtesting.com/challenging-dom" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkFoo" Key="{38FD1DF0-3874-4336-9762-43480B09902C}">
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;foo&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//a[.=&apos;qux&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageItmc5e3f409e7e39" Key="{42027589-4D06-4200-B3E4-3855F0B8DBDB}">
+								<TypeInfo Item0="{59F54738-353D-4866-A1CD-448A6DA78162}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/chuwi-intel-core-i3-12th-gen-i3-1215u-12-gb-512-gb-ssd-windows-11-home-freebook-2-1-laptop/p/itmc5e3f409e7e39*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeAddToCart" Key="{F4F2AA14-1273-4371-8915-B0DD916A1242}">
+										<Image FileName="-540059358" Left="196" Top="803" Right="756" Bottom="873" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;row&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div/div[2]//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAddToCart2" Key="{5CB3DE29-B518-46F0-9F47-E5C6ECA19751}">
+										<Image FileName="-540059358" Left="196" Top="803" Right="476" Bottom="873" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddToCart" Key="{7E919B67-2D33-481C-8A08-3EA6CFCC2DFB}">
+										<Image FileName="-540059358" Left="196" Top="803" Right="471" Bottom="873" />
+										<TypeInfo Item0="{8E519521-4581-424B-846C-5FA492343C7F}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[text()=&apos;Add to cart&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/button[contains(@class, &apos;_2KpZ6l&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{CF03A55B-AB56-40B7-B849-17A583FCB73A}">
+										<Image FileName="-1098191515" Left="9" Top="97" Right="9" Bottom="97" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[contains(., &apos;(13.5 inch, Grey, 1340 g)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;yhB1nd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{5E02FC03-1D28-4C78-A94C-9417E9A9A624}">
+										<Image FileName="-1098191515" Left="795" Top="270" Right="1792" Bottom="333" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[contains(., &apos;(13.5 inch, Grey, 1340 g)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[contains(@class, &apos;B_NuCI&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHp15sIntelCoreI312thGen1215u" Key="{B0E69854-7FA2-4E19-9DFE-786804C68FA6}">
+								<Image FileName="1286239670" Left="9" Top="97" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{E63EB384-A9DB-49EF-A79B-139A4E3BBCC6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeAddToCart" Key="{683D3A49-B24D-4488-8854-D5AD6EB3FC17}">
+										<Image FileName="1286239670" Left="205" Top="812" Right="765" Bottom="882" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;row&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div/div[2]//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAddToCart2" Key="{1287C167-DF37-4747-A22C-DA81C8F84BFC}">
+										<Image FileName="1286239670" Left="205" Top="812" Right="485" Bottom="882" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Add to cart&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]//ul/li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddToCart" Key="{13897BBD-7110-4E64-A0B3-84987B8BF01B}">
+										<Image FileName="1286239670" Left="205" Top="812" Right="480" Bottom="882" />
+										<TypeInfo Item0="{B740523B-D733-4FB2-838D-2ED930146436}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[text()=&apos;Add to cart&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/button[contains(@class, &apos;_2KpZ6l&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{443D2F78-3C1E-4F42-9431-59A3DFEFDEF7}">
+										<Image FileName="1202365518" Left="9" Top="97" Right="9" Bottom="97" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[contains(., &apos;(15.6 Inch, Natural Silver, 1.69 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;yhB1nd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{B5735411-A51B-4AEC-B328-61854B754122}">
+										<Image FileName="1202365518" Left="795" Top="270" Right="1792" Bottom="333" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[contains(., &apos;(15.6 Inch, Natural Silver, 1.69 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[contains(@class, &apos;B_NuCI&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkP" Key="{101B5D25-155A-44C8-85B7-44A23C658110}">
+										<Image FileName="852129058" Left="381" Top="337" Right="1360" Bottom="361" />
+										<TypeInfo Item0="{47800ABF-3A08-40B8-83B8-23C671B23A41}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]//a[contains(@class, &apos;_2Kn22P&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHp14sIntelCoreI311thGen1115g" Key="{646A5C8A-BD46-49E9-93C4-B01E9EB553EA}">
+								<Image FileName="-981916073" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{E63EB384-A9DB-49EF-A79B-139A4E3BBCC6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.flipkart.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode" Key="{E97EE146-5FF7-48B5-B8E7-2CD21DBDA4E0}">
+										<Image FileName="-981916073" Left="9" Top="117" Right="9" Bottom="117" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[contains(., &apos;(14 inch, Natural Silver, 1.41 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;yhB1nd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{17F28151-7D86-4D4C-A73E-965AA403409E}">
+										<Image FileName="-981916073" Left="795" Top="290" Right="1792" Bottom="353" />
+										<TypeInfo Item0="{D2AD12F7-301B-402C-8941-EF3A9B9F9035}" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//span[contains(., &apos;(14 inch, Natural Silver, 1.41 kg, With MS Office)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//span[contains(@class, &apos;B_NuCI&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//h1/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageNewtab" Key="{15DF3980-3694-4279-B94F-79A0E989B2D2}">
+								<Image FileName="920508054" Left="9" Top="117" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{E63EB384-A9DB-49EF-A79B-139A4E3BBCC6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="chrome://newtab/" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{6E2FA216-80AC-4920-8D67-2D80597A64E5}">
+			<Child Name="BrowserWindow" Owner="{EA3F596B-A441-4988-A51D-E36BC54C23D4}" />
+			<Child Name="pageShopLogin" Owner="{C5CDCED8-33B9-44EF-B73E-8364A145B53A}">
+				<Child Name="sectionContent" Owner="{0C085098-8103-4496-9FAB-3DEB3B6C7A11}">
+					<Child Name="textboxUsernameoremail" Owner="{FD02AFA8-D3EF-4CE3-95F1-24E0D5B1CE6E}" />
+					<Child Name="passwordboxPassword" Owner="{6428515B-42DF-4323-AE9A-2DDD84863C33}" />
+					<Child Name="buttonLogIn" Owner="{5B8B4210-59D5-4C4B-AF6F-B24991AD119E}" />
+				</Child>
+			</Child>
+			<Child Name="pageBearstoreTestsiteSmartbearCo" Owner="{0E57C73F-6B3A-43E3-9AE1-7E52EC989B81}">
+				<Child Name="sectionContent" Owner="{22C487C8-5314-4B21-A3AC-51F8746DFDEE}">
+					<Child Name="articleJackets" Owner="{123B4591-0332-4E05-BB71-0DBABB46115A}">
+						<Child Name="linkShowProductsInCategory" Owner="{67398FAC-5C0A-452A-AB38-983CABFBC991}">
+							<Child Name="imageShowProductsInCategory" Owner="{0B447F5E-8444-4741-99FC-2B990975F42B}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="header" Owner="{5FD6EFEB-44D7-4622-9B6D-5585BB46541B}">
+					<Child Name="navUsd" Owner="{3FCC18C9-2AC1-4D83-B8C7-DE0488D7F7C3}">
+						<Child Name="linkLogIn" Owner="{D340B7C5-13F7-4500-B406-EE3A23029ABD}">
+							<Child Name="textnodeLogIn" Owner="{D22E28A7-BB83-45A1-B5B8-775A586D4816}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageJackets" Owner="{0B5363FA-8436-4A8C-A153-50BF6D70A05D}">
+				<Child Name="sectionContent" Owner="{DD6713E6-0DD1-46BF-BC02-9A0CC91160B9}">
+					<Child Name="linkKanukaPointJacketM" Owner="{530DF7B4-D2E5-4AAF-A464-CBD9EDA837C8}">
+						<Child Name="imagePictureOfKanukaPointJacketM" Owner="{0963EC1E-61D4-4266-AD0F-3C001C54311B}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageKanukaPointJacketM" Owner="{6AED22BE-C739-49BB-BF78-21B031CF0FB0}">
+				<Child Name="sectionContent" Owner="{012E8D07-BE7F-44C8-B81F-1E4446103331}">
+					<Child Name="articleKanukaPointJacketM" Owner="{2336E0EA-07F7-442D-9C66-B9A912CAD37C}">
+						<Child Name="linkAddToCart" Owner="{B4BC9F0C-A51F-4E58-BF34-AC640B0D6E7A}">
+							<Child Name="textnode" Owner="{588BD396-58A2-4887-8A88-D9AC1B693A05}" />
+						</Child>
+						<Child Name="linkJackWolfskinKanukaPoint1Png" Owner="{0EF2D0E8-4123-41EA-A3FB-7F5444737C96}">
+							<Child Name="imageKanukaPointJacketM" Owner="{23C9F2C4-C979-47CA-A795-CF1DBBD68055}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="asideOffcanvasCart" Owner="{CC8181D7-83E2-46B1-B4F6-35299BE55DF2}">
+					<Child Name="linkCheckout" Owner="{D15E526A-6956-4CAD-A35B-8CF425B7552B}">
+						<Child Name="textnodeCheckout" Owner="{01514393-1380-4B57-940D-7A664BADCD1B}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageBillingaddress" Owner="{A4C79DAC-1B73-4A55-8B5E-C4C740DDD002}">
+				<Child Name="sectionContent" Owner="{3852B948-9557-4CA7-8F37-78A860699111}">
+					<Child Name="fieldsetSelectBillingAddressunde" Owner="{4D4D8A09-BE98-4362-9400-9EFF4988A75D}">
+						<Child Name="buttonBillToThisAddress" Owner="{A49A86C1-9747-4B3A-8EA5-CB6028F3B79A}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageShippingaddress" Owner="{69724C3B-E6C4-40B5-9096-B8922EB93560}">
+				<Child Name="sectionContent" Owner="{3235DF00-17C9-4B40-BC31-6C7A5E469E24}">
+					<Child Name="fieldsetSelectShippingAddressund" Owner="{3C636C73-BF1F-429D-846B-C3CBE87E4633}">
+						<Child Name="buttonShipToThisAddress" Owner="{D575131E-9A4D-478C-80C1-0813CA25FD31}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageShippingmethod" Owner="{C0644CF7-E9EE-4236-BA71-ED2501E4323C}">
+				<Child Name="sectionContent" Owner="{EFEDB5A1-8080-43B8-AA28-2B85843465E7}">
+					<Child Name="buttonNext" Owner="{71281192-B199-43F3-B117-B3DD0AE50102}" />
+				</Child>
+			</Child>
+			<Child Name="pagePaymentmethod" Owner="{F228F7ED-AA78-4C93-932E-93119ABAC9CF}">
+				<Child Name="sectionContent" Owner="{5E52FA2D-B9CB-48C3-A02F-2E045931AB23}">
+					<Child Name="buttonNext" Owner="{8DDBC1B5-E721-4B8F-9A7E-4B45096E7AD2}" />
+				</Child>
+			</Child>
+			<Child Name="pageConfirm" Owner="{E3C6AC39-48EF-4BD1-ACA3-4728A6C92D0F}">
+				<Child Name="sectionContent" Owner="{DA3E07DE-CDEA-44D0-9801-1CA8C136FFCA}">
+					<Child Name="buttonConfirm" Owner="{9466E6C6-4A0E-4729-BA47-9269C4859CB8}" />
+				</Child>
+			</Child>
+			<Child Name="pageShopContactUs" Owner="{38E0B93A-1611-41AE-9A54-BE8B0C6AC99F}">
+				<Child Name="sectionContent" Owner="{FC6F5FE8-8682-40CC-B9A0-E598D02C7AD4}">
+					<Child Name="formYourName" Owner="{AB1ADB6E-F3BF-46ED-9FB6-FA3D47442DA9}">
+						<Child Name="email" Owner="{C88CC648-7050-4D81-A58B-44007D19F1ED}" />
+						<Child Name="textareaEnquiry" Owner="{8EC64D73-8C31-487C-942C-3588AE75A0EF}" />
+						<Child Name="buttonSendEmail" Owner="{5347FD46-559C-41F1-BB49-06662319C251}" />
+						<Child Name="name" Owner="{28150870-41CA-4EEA-A903-90406DF7387E}" />
+					</Child>
+					<Child Name="panelYourEnquiryHasBeen" Owner="{C2D25DD8-21D8-42C8-938D-960E1E4B385D}" />
+				</Child>
+				<Child Name="header" Owner="{2C99C58E-F321-4E4A-A47C-1AEB5493CB43}">
+					<Child Name="navBooks" Owner="{E05A99BC-C29F-4BB9-B322-9F16B961A62D}">
+						<Child Name="linkWatches" Owner="{E7329B9D-17FA-4DCE-9BAE-453264D04544}">
+							<Child Name="textnodeWatches" Owner="{CF31EE14-EF58-4926-A6D4-77D451DC74CE}" />
+						</Child>
+					</Child>
+					<Child Name="formSearch" Owner="{232C1B64-3CE0-4E1B-978F-B26938148A77}">
+						<Child Name="buttonSearch" Owner="{E24F4F25-68B2-4AAD-909E-39D61796B565}" />
+					</Child>
+					<Child Name="link19" Owner="{C16662A7-686B-40FA-8DA9-30B0BC8E8EA9}" />
+				</Child>
+			</Child>
+			<Child Name="pageDanfossGlobeHome" Owner="{6E6E42CA-9CBD-45BA-A85D-C664E2035C3E}" />
+			<Child Name="pageOnlineShoppingSiteForMobiles" Owner="{8BA51E01-0643-41F9-8FC1-C98C342D6783}">
+				<Child Name="headerSearchIcon" Owner="{F7B0F21E-3F94-4FB2-A455-4AE96B97028C}">
+					<Child Name="formSearchIcon" Owner="{3108F1E5-555C-4978-BB2A-509AF0DEB8FE}">
+						<Child Name="textboxQ" Owner="{7C59BA5C-F6CD-4591-B426-45343984A94D}" />
+						<Child Name="buttonSearchForProductsBrandsAnd" Owner="{C580E47F-A124-4886-962D-8999F78907C5}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageOnlineShoppingSiteForMobiles2" Owner="{08C0D595-B5ED-4AA1-8515-DC8D24DC377C}">
+				<Child Name="linkAddToCompare" Owner="{56D966BB-465F-40BE-AF6F-BA6CD48C883E}">
+					<Child Name="panel" Owner="{2FBD3DD0-64C7-42D4-BEFF-E7D4680F2ACB}" />
+					<Child Name="panel2" Owner="{77040FF6-4D09-4E02-B429-F0DD827E4C5C}" />
+				</Child>
+				<Child Name="linkAddToCompare2" Owner="{89AEDF67-59D3-4CF5-8D95-AC613BB709BD}">
+					<Child Name="panel3" Owner="{9D8D125D-A58A-49E6-9987-8D3AFFC44734}" />
+				</Child>
+			</Child>
+			<Child Name="pageItm1aa32978aff04" Owner="{3E4D8F69-E089-4469-ACA6-5EECEB9E2A0B}">
+				<Child Name="textnodeAddToCart" Owner="{3A4B543F-33F2-407B-84E9-8A7D0EB4C895}">
+					<Child Name="textnodeAddToCart2" Owner="{A178DDB4-B32E-4A60-BE81-B8DDA8C34289}">
+						<Child Name="buttonAddToCart" Owner="{B88EEA96-217C-44BD-9390-3554258207A5}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageDifferenceBetweenQualityAssu" Owner="{0E00DB4C-72AB-4FA4-B4A4-4D84A79E8F36}">
+				<Child Name="panelContainer" Owner="{81D08571-01B2-4A5A-B801-42F673CE3FBF}" />
+			</Child>
+			<Child Name="pageW3schoolsTryitEditor" Owner="{A15EF1D8-9BC9-4DCF-844B-3BF589288D0C}">
+				<Child Name="frameIframeresult" Owner="{4D8FF982-F0AA-4447-A5D8-7A76A4A6392F}">
+					<Child Name="buttonTest" Owner="{A18D0DF4-3506-46CF-B846-D65EAF8797AA}" />
+				</Child>
+				<Child Name="buttonRunbtn" Owner="{6AC9673C-17F8-43A4-BFC3-D8AAADFFD873}" />
+			</Child>
+			<Child Name="pageLogInToFacebook" Owner="{5029BB63-D097-4015-B96C-4CF508AD54F0}">
+				<Child Name="formLoginForm" Owner="{59CF6478-C93E-446B-92CE-920BEDD5C368}">
+					<Child Name="textboxEmailAddressOrPhoneNumber" Owner="{2E4D1A3B-4645-478A-96F8-F24B3D5447B3}" />
+					<Child Name="passwordboxPassword" Owner="{D205473C-247B-41C6-AF08-6DE84DF7C9FD}" />
+					<Child Name="login" Owner="{76B2A97C-1C93-46DE-BC37-89A2F4D851AF}" />
+				</Child>
+			</Child>
+			<Child Name="pageTestAutomationPracticeWorkin" Owner="{26C74999-714A-4FB4-92D6-C58683FB0890}">
+				<Child Name="linkFoo" Owner="{38FD1DF0-3874-4336-9762-43480B09902C}" />
+			</Child>
+			<Child Name="pageItmc5e3f409e7e39" Owner="{42027589-4D06-4200-B3E4-3855F0B8DBDB}">
+				<Child Name="textnodeAddToCart" Owner="{F4F2AA14-1273-4371-8915-B0DD916A1242}">
+					<Child Name="textnodeAddToCart2" Owner="{5CB3DE29-B518-46F0-9F47-E5C6ECA19751}">
+						<Child Name="buttonAddToCart" Owner="{7E919B67-2D33-481C-8A08-3EA6CFCC2DFB}" />
+					</Child>
+				</Child>
+				<Child Name="textnode" Owner="{CF03A55B-AB56-40B7-B849-17A583FCB73A}">
+					<Child Name="textnode2" Owner="{5E02FC03-1D28-4C78-A94C-9417E9A9A624}" />
+				</Child>
+			</Child>
+			<Child Name="pageHp15sIntelCoreI312thGen1215u" Owner="{B0E69854-7FA2-4E19-9DFE-786804C68FA6}">
+				<Child Name="textnodeAddToCart" Owner="{683D3A49-B24D-4488-8854-D5AD6EB3FC17}">
+					<Child Name="textnodeAddToCart2" Owner="{1287C167-DF37-4747-A22C-DA81C8F84BFC}">
+						<Child Name="buttonAddToCart" Owner="{13897BBD-7110-4E64-A0B3-84987B8BF01B}" />
+					</Child>
+				</Child>
+				<Child Name="textnode" Owner="{443D2F78-3C1E-4F42-9431-59A3DFEFDEF7}">
+					<Child Name="textnode2" Owner="{B5735411-A51B-4AEC-B328-61854B754122}" />
+				</Child>
+				<Child Name="linkP" Owner="{101B5D25-155A-44C8-85B7-44A23C658110}" />
+			</Child>
+			<Child Name="pageHp14sIntelCoreI311thGen1115g" Owner="{646A5C8A-BD46-49E9-93C4-B01E9EB553EA}">
+				<Child Name="textnode" Owner="{E97EE146-5FF7-48B5-B8E7-2CD21DBDA4E0}">
+					<Child Name="textnode2" Owner="{17F28151-7D86-4D4C-A73E-965AA403409E}" />
+				</Child>
+			</Child>
+			<Child Name="pageNewtab" Owner="{15DF3980-3694-4279-B94F-79A0E989B2D2}" />
+		</Child>
+	</LogicalNodes>
+</Root>

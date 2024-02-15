@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B905A2AC-9C44-46F2-B89B-F4A1F4B7DEE0}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45329.6534375" objectName="Aliases.browser.pageTheInternet.AddRemoveElementsBUTTON" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi651198937140600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45329.6535185185" objectName="Aliases.browser.pageTheInternetHerokuappComAddRe.buttonAddElement" objectLeft="354" objectTop="219" objectRight="539" objectBottom="276" clickPointX="486" clickPointY="248" imageFileName="tcvi651206000140603.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45329.6706597222" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1029" clickPointX="-1" clickPointY="-1" imageFileName="tcvi652687500295960.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

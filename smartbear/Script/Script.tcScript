@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{214BA387-2EF6-43D5-BC2F-73C5E3AF66E7}" path="Unit1.js" />
+		<child name="smartbear_script" key="{E2EFD906-30B4-45B6-A435-0B05A5A20FF6}" path="smartbear_script.js" />
+	</children>
+</Root>
